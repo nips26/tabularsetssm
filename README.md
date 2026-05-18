@@ -12,7 +12,7 @@ dispatched by a permutation-invariant pooling router under a soft-to-hard
 annealed temperature, and a single calibration parameter rescales the
 logits for classification.
 
-![TabularSetSSM architecture](figure1.jpg)
+![TabularSetSSM architecture](figure1.jpeg)
 
 ## Repository contents
 
