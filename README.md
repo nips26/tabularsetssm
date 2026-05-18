@@ -181,7 +181,7 @@ The first execution will download the datasets via OpenML / AMLB, which
 requires an active internet connection. Subsequent runs use the cached
 copies on disk.
 
-## Citation
 
-If you use this code or build on the architecture, please cite the
-accompanying NeurIPS submission (anonymised during double-blind review).
+## Acknowledgement
+
+This repository is built upon [GSSC - (What Can We Learn from State Space Models for Machine Learning on Graphs?) Huang et al., 2024](https://github.com/Graph-COM/GSSC).
